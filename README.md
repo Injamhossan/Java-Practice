@@ -1,7 +1,7 @@
 # Java-Practice
 # Java Programming Practice Projects
 
-This repository contains a collection of basic Java programs written for practice and learning purposes. These programs cover a wide range of core Java concepts such as conditionals, loops, mathematical calculations, number theory, and simple logic building.
+This repository contains a collection of basic Java programs written for practice and learning purposes. These programs cover a wide range of core Java concepts, including conditionals, loops, mathematical calculations, number theory, and basic logic building.
 
 ## 📁 List of Programs
 
@@ -48,5 +48,5 @@ This repository is designed for beginners who want to understand the basics of J
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-practice-projects.git
-   cd java-practice-projects
+   git clone https://github.com/your-Injamhossan/Java-Practice.git
+   cd Java-Practice
