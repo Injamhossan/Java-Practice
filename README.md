@@ -37,8 +37,8 @@ Here are the Java files included in this repository:
 ## 🛠 Technologies Used
 
 - Language: Java
-- IDE: VS Code / IntelliJ IDEA / Eclipse (any Java-supported IDE)
-- JDK: Java SE 8 or later
+- IDE: VS Code
+- JDK: Java SE 8
 
 ## 📚 Purpose
 
